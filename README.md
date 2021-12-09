@@ -1,4 +1,4 @@
-# Baking Magazine Spread
+# Baking Magazine Spread (fall 2021)
 
 This 4 page design was created as an assignment for an Integrating Writing and Design course. All image credits are given along the images in the design. Photos are from Unsplash and free to use without attribution (although it is provided in the design), while icons are from the Noun Project and have the required attributions in the actual design for free use. The following commentary on this design is pulled from the course's final portfolio gloss on the spread:
 
