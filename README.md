@@ -7,3 +7,5 @@ This 4 page design was created as an assignment for an Integrating Writing and D
 In revision, I drafted out the copy text to replace the placeholder text I had initially. I kept the instructions vague, using a Cooks’ Illustrated recipe as a reference, but not directly typing it out, in an attempt to avoid plagiarism. Writing out the body text was an exercise in another type of consistency across the pages: consistency of voice. I tried to create a humorous, friendly tone that I had in the original draft’s image comments, to match my idea of the magazine’s overall informative but playful brand. I wanted to make the technical aspects of baking, that can be intimidating to people who do not bake often, feel approachable. Through the sprinkling of italicized side comments in parentheses throughout the copy text, I added levity to the technicalities on every page.
 
 Overall, through repetition of design elements and voice, this design is a set of spreads where no two pages are exactly alike, yet they feel like a package."
+
+This project was nominated for and featured in Pitt's 2022 [Digital Media Showcase](https://dmap.pitt.edu/showcase).
